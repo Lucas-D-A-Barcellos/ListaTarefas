@@ -34,7 +34,7 @@ O projeto é composto pelos seguintes arquivos principais:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/sistema-gerenciamento-tarefas.git
+   git clone https://github.com/Lucas-D-A-Barcellos/ListaTarefas.git
 
 1. **Configure o banco de dados:**
 
